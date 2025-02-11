@@ -36,9 +36,3 @@ This **Power BI Dashboard** provides an interactive and data-driven analysis of 
 - **Testing rates** varied significantly across countries, impacting case detection.  
 - **Seasonal trends and policy changes** influenced case numbers.  
 
-## 📥 Installation & Usage
-### **1️⃣ Web Scraping the Data**
-Run the Python script to fetch the latest COVID-19 data:
-```sh
-python covid19_scraper.py
-
